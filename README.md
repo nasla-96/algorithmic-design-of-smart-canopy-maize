@@ -10,6 +10,12 @@ Code and example data for:
 - `data/example_outputs/` : small example outputs (fitness curves, summary CSVs)
 - `results/` : local outputs (not version controlled)
 
+## Environment
+Create the conda environment:
+`conda env create -f environment.yml`
+Activate:
+`conda activate nurbs`
+
 ## Quickstart (smoke test)
 1. Create environment:
    - `conda env create -f environment.yml`
