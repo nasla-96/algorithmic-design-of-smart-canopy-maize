@@ -20,7 +20,7 @@ Activate:
 1. Create environment:
    - `conda env create -f environment.yml`
 2. Activate:
-   - `conda activate <ENV_NAME>`
+   - `conda activate nurbs`
 3. Open and run:
    - `notebooks/GA_helios_cropped_120x24.ipynb`
 
